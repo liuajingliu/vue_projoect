@@ -1,0 +1,19 @@
+{
+  "name": "vue_projoect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuajingliu/vue_projoect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuajingliu/vue_projoect/issues"
+  },
+  "homepage": "https://github.com/liuajingliu/vue_projoect#readme"
+}
